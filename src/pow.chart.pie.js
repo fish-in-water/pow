@@ -23,8 +23,8 @@
 
       //PLOT
       "plotBorderThickness": "1.5",
-      "plotBorderColor": "FF0000",
-      "plotBorderAlpha": "0",
+      "plotBorderColor": "FFFFFF",
+      "plotBorderAlpha": "80",
       "plotFillAlpha": "30",
       "plotBorderDashed": "0",
       "plotBorderDashedStyle": "0",

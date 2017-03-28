@@ -17,13 +17,14 @@ POW基于Rapheal图形库，以SVG&VML技术为基础，结合完善的参数体
   "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>POW - Quick Start</title>
   <style type="text/css">
     h1 {
       text-align: center;
     }
 
-    .chart {
+    #chart {
       margin: 0 auto;
       width: 800px;
       height: 400px;
@@ -32,17 +33,55 @@ POW基于Rapheal图形库，以SVG&VML技术为基础，结合完善的参数体
   </style>
 </head>
 <body>
-<h1>My first POW Chart</h1>
-<div class="chart">
+<h1>My First POW Chart</h1>
+<div id="chart">
 
 </div>
 </body>
 <script type="text/javascript" src="../../lib/raphael/raphael-min.js"></script>
-<script type="text/javascript" src="../../dist/pow.chart.all-in-one.min.js"></script>	
+<script type="text/javascript" src="../../src/pow.chart.core.js"></script>
+<script type="text/javascript" src="../../src/pow.chart.axis.js"></script>
 <script type="text/javascript">
-  alert(1)
+  var chart = new POW.Chart.Axis(document.getElementById('chart'));
+  chart.setData({
+      "caption": "Business Results",
+      "categories": {
+        "category": [
+          {
+            "label": "2014"
+          },
+          {
+            "label": "2015"
+          },
+          {
+            "label": "2016"
+          }
+        ]
+      },
+      "dataset": [
+        {
+          "set": [
+            {
+              "y": "27400",
+              "fillColor": "8CA7BA"
+            },
+            {
+              "y": "29800",
+              "fillColor": "B59327"
+            },
+            {
+              "y": "25800",
+              "fillColor": "BA7345"
+            }
+          ]
+        }
+      ]
+    }
+  );
 </script>
 </html>
+
+
 
 ```
 
