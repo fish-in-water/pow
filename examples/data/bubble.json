@@ -1,0 +1,288 @@
+{
+  "caption": "Business Results",
+  "subCaption": "2014 vs 2013",
+  "xAxisName": "Month",
+  "PYAxisName": "Revenue",
+  "showValues": "0",
+  "numberPrefix": "$",
+  "XYPlot": "1",
+  "categories": {
+    "category": [
+      {
+        "label": "10",
+        "x": "10"
+      },
+      {
+        "label": "20",
+        "x": "20"
+      },
+      {
+        "label": "30",
+        "x": "30"
+      },
+      {
+        "label": "40",
+        "x": "40"
+      },
+      {
+        "label": "50",
+        "x": "50"
+      },
+      {
+        "label": "60",
+        "x": "60"
+      },
+      {
+        "label": "70",
+        "x": "70"
+      },
+      {
+        "label": "80",
+        "x": "80"
+      },
+      {
+        "label": "90",
+        "x": "90"
+      },
+      {
+        "label": "100",
+        "x": "100"
+      },
+      {
+        "label": "110",
+        "x": "110"
+      },
+      {
+        "label": "120",
+        "x": "120"
+      }
+    ]
+  },
+  "dataset": [
+    {
+      "seriesName": "2014",
+      "pattern": "BUBBLE",
+      "lineColor": "55AEBE",
+      "fillAngle": "100",
+      "lineAlpha": "100",
+      "lineThickness": "0",
+      "anchorBorderColor": "55AEBE",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "55AEBE",
+      "fillAlpha": "80",
+      "anchorSides": "4",
+      "anchorRadius": "5",
+      "anchorThickness": "3",
+      "gradientColor": "FFFFFF",
+      "set": [
+        {
+          "y": "24000",
+          "x": "21",
+          "r": "2400"
+        },
+        {
+          "y": "35000",
+          "x": "32",
+          "r": "3500"
+        },
+        {
+          "y": "25000",
+          "x": "43",
+          "r": "2500"
+        },
+        {
+          "y": "41000",
+          "x": "48",
+          "r": "4100"
+        },
+        {
+          "y": "35000",
+          "x": "50",
+          "r": "3500"
+        },
+        {
+          "y": "46000",
+          "x": "56",
+          "r": "4600"
+        },
+        {
+          "y": "48000",
+          "x": "59",
+          "r": "9600"
+        },
+        {
+          "y": "49000",
+          "x": "73",
+          "r": "4900"
+        },
+        {
+          "y": "46000",
+          "x": "89",
+          "r": "4600"
+        },
+        {
+          "y": "42000",
+          "x": "93",
+          "r": "4200"
+        }
+      ]
+    },
+    {
+      "seriesName": "2013",
+      "pattern": "BUBBLE",
+      "lineColor": "EDA326",
+      "fillAngle": "100",
+      "lineAlpha": "100",
+      "lineThickness": "0",
+      "anchorBorderColor": "EDA326",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "EDA326",
+      "fillAlpha": "80",
+      "anchorSides": "3",
+      "anchorRadius": "5",
+      "anchorThickness": "3",
+      "gradientColor": "FFFFFF",
+      "set": [
+        {
+          "y": "14000",
+          "x": "23",
+          "r": "2400"
+        },
+        {
+          "y": "15000",
+          "x": "29",
+          "r": "2500"
+        },
+        {
+          "y": "15000",
+          "x": "33",
+          "r": "2500"
+        },
+        {
+          "y": "11000",
+          "x": "41",
+          "r": "1100"
+        },
+        {
+          "y": "15000",
+          "x": "47",
+          "r": "3500"
+        },
+        {
+          "y": "16000",
+          "x": "49",
+          "r": "3600"
+        },
+        {
+          "y": "18000",
+          "x": "51",
+          "r": "2800"
+        },
+        {
+          "y": "19000",
+          "x": "53",
+          "r": "3900"
+        },
+        {
+          "y": "16000",
+          "x": "57",
+          "r": "4600"
+        },
+        {
+          "y": "12000",
+          "x": "58",
+          "r": "3200"
+        },
+        {
+          "y": "19000",
+          "x": "61",
+          "r": "2900"
+        },
+        {
+          "y": "11000",
+          "x": "63",
+          "r": "2100"
+        },
+        {
+          "y": "19000",
+          "x": "64",
+          "r": "2900"
+        },
+        {
+          "y": "17000",
+          "x": "71",
+          "r": "4700"
+        },
+        {
+          "y": "11000",
+          "x": "77",
+          "r": "2100"
+        },
+        {
+          "y": "13000",
+          "x": "79",
+          "r": "6300"
+        },
+        {
+          "y": "17000",
+          "x": "83",
+          "r": "1700"
+        },
+        {
+          "y": "18000",
+          "x": "89",
+          "r": "4800"
+        },
+        {
+          "y": "19000",
+          "x": "91",
+          "r": "2900"
+        },
+        {
+          "y": "10000",
+          "x": "93",
+          "r": "3000"
+        }
+      ]
+    }
+  ],
+  "hTrendlines": {
+    "line": [
+      {
+        "y0": "0",
+        "y1": "25000",
+        "displayValue": "Bad",
+        "showOnTop": "1",
+        "isTrendZone": "1",
+        "color": "FF0000",
+        "alpha": "15"
+      },
+      {
+        "y0": "25000",
+        "y1": "50000",
+        "displayValue": "Good",
+        "showOnTop": "1",
+        "isTrendZone": "1",
+        "color": "EDA326",
+        "alpha": "15"
+      },
+      {
+        "y0": "50000",
+        "y1": "",
+        "displayValue": "Excellent",
+        "showOnTop": "1",
+        "isTrendZone": "1",
+        "color": "#90C829",
+        "alpha": "15"
+      },
+      {
+        "y0": "20000",
+        "displayValue": "Avg",
+        "showOnTop": "1",
+        "isTrendZone": "0",
+        "color": "4386C7",
+        "alpha": "60"
+      }
+    ]
+  }
+}

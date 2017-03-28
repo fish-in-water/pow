@@ -1,0 +1,75 @@
+{
+  "caption": "Company Revenue",
+  "subCaption": "2014 vs 2013",
+  "xAxisName": "",
+  "showLegend": "1",
+  "showPlotBorder": "1",
+  "plotBorderColor": "FFFFFF",
+  "plotBorderAlpha": "80",
+  "plotFillAlpha": "0",
+  "showShadow": "0",
+  "use3DLighting": "0",
+  "slicingDistance": "0",
+  "enableRotation": "0",
+  "showPercentageValues": "1",
+  "dataset": [
+    {
+      "seriesName": "2014",
+      "pattern": "AREA",
+      "lineColor": "55AEBE",
+      "borderAlpha": "100",
+      "lineThickness": "2",
+      "anchorBorderColor": "55AEBE",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "55AEBE",
+      "set": [
+        {
+          "value": "17400",
+          "label": "1st Quarter"
+        },
+        {
+          "value": "39800",
+          "label": "2st Quarter"
+        },
+        {
+          "value": "25800",
+          "label": "3st Quarter"
+        },
+        {
+          "value": "36800",
+          "label": "4st Quarter"
+        }
+      ]
+    },
+    {
+      "seriesName": "2013",
+      "pattern": "AREA",
+      "lineColor": "EDA326",
+      "borderAlpha": "100",
+      "lineThickness": "2",
+      "anchorBorderColor": "EDA326",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "EDA326",
+      "fillAlpha": "80",
+      "set": [
+        {
+          "value": "4000",
+          "label": "1st Quarter"
+        },
+        {
+          "value": "11500",
+          "label": "2st Quarter"
+        },
+        {
+          "value": "12500",
+          "label": "3st Quarter"
+        },
+        {
+          "value": "15000",
+          "label": "4st Quarter"
+        }
+      ]
+    }
+  ]
+
+}

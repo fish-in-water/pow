@@ -1,0 +1,254 @@
+{
+  "caption": "Business Results",
+  "subCaption": "2014 vs 2013",
+  "xAxisName": "Month",
+  "PYAxisName": "Revenue",
+  "showValues": "0",
+  "numberPrefix": "$",
+  "XYPlot": "1",
+  "categories": {
+    "category": [
+      {
+        "label": "10",
+        "x": "10"
+      },
+      {
+        "label": "20",
+        "x": "20"
+      },
+      {
+        "label": "30",
+        "x": "30"
+      },
+      {
+        "label": "40",
+        "x": "40"
+      },
+      {
+        "label": "50",
+        "x": "50"
+      },
+      {
+        "label": "60",
+        "x": "60"
+      },
+      {
+        "label": "70",
+        "x": "70"
+      },
+      {
+        "label": "80",
+        "x": "80"
+      },
+      {
+        "label": "90",
+        "x": "90"
+      },
+      {
+        "label": "100",
+        "x": "100"
+      },
+      {
+        "label": "110",
+        "x": "110"
+      },
+      {
+        "label": "120",
+        "x": "120"
+      }
+    ]
+  },
+  "dataset": [
+    {
+      "seriesName": "2014",
+      "pattern": "LINE",
+      "lineColor": "55AEBE",
+      "fillAngle": "100",
+      "lineAlpha": "100",
+      "lineThickness": "0",
+      "anchorBorderColor": "55AEBE",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "55AEBE",
+      "anchorSides": "4",
+      "anchorRadius": "5",
+      "anchorThickness": "3",
+      "set": [
+        {
+          "y": "24000",
+          "x": "21"
+        },
+        {
+          "y": "35000",
+          "x": "32"
+        },
+        {
+          "y": "25000",
+          "x": "43"
+        },
+        {
+          "y": "41000",
+          "x": "48"
+        },
+        {
+          "y": "35000",
+          "x": "50"
+        },
+        {
+          "y": "46000",
+          "x": "56"
+        },
+        {
+          "y": "48000",
+          "x": "59"
+        },
+        {
+          "y": "49000",
+          "x": "73"
+        },
+        {
+          "y": "46000",
+          "x": "89"
+        },
+        {
+          "y": "42000",
+          "x": "93"
+        }
+      ]
+    },
+    {
+      "seriesName": "2013",
+      "pattern": "LINE",
+      "lineColor": "EDA326",
+      "fillAngle": "100",
+      "lineAlpha": "100",
+      "lineThickness": "0",
+      "anchorBorderColor": "EDA326",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "EDA326",
+      "anchorSides": "3",
+      "anchorRadius": "5",
+      "anchorThickness": "3",
+      "set": [
+        {
+          "y": "14000",
+          "x": "23"
+        },
+        {
+          "y": "15000",
+          "x": "29"
+        },
+        {
+          "y": "15000",
+          "x": "33"
+        },
+        {
+          "y": "11000",
+          "x": "41"
+        },
+        {
+          "y": "15000",
+          "x": "47"
+        },
+        {
+          "y": "16000",
+          "x": "49"
+        },
+        {
+          "y": "18000",
+          "x": "51"
+        },
+        {
+          "y": "19000",
+          "x": "53"
+        },
+        {
+          "y": "16000",
+          "x": "57"
+        },
+        {
+          "y": "12000",
+          "x": "58"
+        },
+        {
+          "y": "19000",
+          "x": "61"
+        },
+        {
+          "y": "11000",
+          "x": "63"
+        },
+        {
+          "y": "19000",
+          "x": "64"
+        },
+        {
+          "y": "17000",
+          "x": "71"
+        },
+        {
+          "y": "11000",
+          "x": "77"
+        },
+        {
+          "y": "13000",
+          "x": "79"
+        },
+        {
+          "y": "17000",
+          "x": "83"
+        },
+        {
+          "y": "18000",
+          "x": "89"
+        },
+        {
+          "y": "19000",
+          "x": "91"
+        },
+        {
+          "y": "10000",
+          "x": "93"
+        }
+      ]
+    }
+  ],
+  "vTrendlines": {
+    "line": [
+      {
+        "x0": "10",
+        "x1": "40",
+        "displayValue": "Bad",
+        "showOnTop": "1",
+        "isTrendZone": "1",
+        "color": "FF0000",
+        "alpha": "15"
+      },
+      {
+        "x0": "40",
+        "x1": "80",
+        "displayValue": "Good",
+        "showOnTop": "1",
+        "isTrendZone": "1",
+        "color": "EDA326",
+        "alpha": "15"
+      },
+      {
+        "x0": "80",
+        "x1": "",
+        "displayValue": "Excellent",
+        "showOnTop": "1",
+        "isTrendZone": "1",
+        "color": "#90C829",
+        "alpha": "15"
+      },
+      {
+        "x0": "85",
+        "displayValue": "Avg",
+        "showOnTop": "1",
+        "isTrendZone": "0",
+        "color": "4386C7",
+        "alpha": "60"
+      }
+    ]
+  }
+}

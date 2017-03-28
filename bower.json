@@ -1,0 +1,29 @@
+{
+  "name": "pow",
+  "description": "JS Chart Library",
+  "main": "index.js",
+  "authors": [
+    "xuxia"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "JS",
+    "Chart",
+    "Library"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.0"
+  },
+  "dependencies": {
+    "raphael": "2.1.2"
+  }
+}

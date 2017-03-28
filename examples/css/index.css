@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 30px 0;
+  font-family: "微软雅黑";
+  background-color: #fff;
+}
+
+h1 {
+  height: 60px;
+  line-height: 60px;
+  font-size: 24px;
+  text-align: center;
+}
+
+h2 {
+  height: 30px;
+  line-height: 30px;
+  font-size: 16px;
+  text-align: left;
+}
+
+.charts {
+  width: 800px;
+  margin: 0 auto;
+  border: 0 solid red;
+  text-align: center;
+}
+
+.charts .chart {
+  width: 800px;
+  height: 450px;
+  border: 1px solid #B0B0B0;
+}
+
+.charts .china-map {
+  width: 800px;
+  height: 550px;
+  background: url(../img/china-map-preview.png) center center no-repeat;
+}
+
+.charts .mixed-pie {
+  width: 150px;
+  height: 150px;
+  border: 0 solid red;
+  position: absolute;
+  left: 110px;
+  top: 50px;
+  z-index: 10000;
+}
+
+

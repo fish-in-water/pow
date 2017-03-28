@@ -1,0 +1,127 @@
+{
+  "caption": "Company Revenue",
+  "subCaption": "2014 vs 2013",
+  "xAxisName": "",
+  "showLegend": "1",
+  "showPlotBorder": "1",
+  "plotBorderThickness": "1.5",
+  "plotBorderColor": "FFFFFF",
+  "plotBorderAlpha": "100",
+  "plotFillAlpha": "0",
+  "showShadow": "0",
+  "use3DLighting": "0",
+  "slicingDistance": "0",
+  "enableRotation": "0",
+  "showPercentageValues": "1",
+  "valueLabelSepChar": ", ",
+  "startingAngle": "90",
+  "canvasBgAlpha": "0",
+  "valueLabelOutside": "1",
+  "set": [
+    {
+      "label": "Services",
+      "value": "26",
+      "color": "ff0000"
+    },
+    {
+      "label": "HardwareHardwareHardwareHaHa",
+      "value": "32"
+    },
+    {
+      "label": "Software",
+      "value": "42",
+      "link": "j-myJS-S. Korea, 86"
+    },
+    {
+      "label": "Software",
+      "value": "42",
+      "displayValue": "xx",
+      "toolText": "xxxx"
+    },
+    {
+      "label": "Software",
+      "value": "1",
+      "isSliced": "0"
+    },
+    {
+      "label": "Software",
+      "value": "1"
+    },
+    {
+      "label": "Software",
+      "value": "1"
+    },
+    {
+      "label": "Software",
+      "value": "1"
+    }
+  ],
+  "dataset": [
+    {
+      "seriesName": "2014",
+      "pattern": "AREA",
+      "lineColor": "55AEBE",
+      "borderAlpha": "100",
+      "lineThickness": "2",
+      "anchorBorderColor": "55AEBE",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "55AEBE",
+      "fillAlpha": "80",
+      "set": [
+        {
+          "value": "17400",
+          "label": "1st Quarter",
+          "fillColor": "55AEBE"
+        },
+        {
+          "value": "39800",
+          "label": "2st Quarter",
+          "fillColor": "EDA326"
+        },
+        {
+          "value": "25800",
+          "label": "3st Quarter",
+          "fillColor": "#628C33"
+        },
+        {
+          "value": "36800",
+          "label": "4st Quarter",
+          "fillColor": "#D85151"
+        }
+      ]
+    },
+    {
+      "seriesName": "2013",
+      "pattern": "AREA",
+      "lineColor": "EDA326",
+      "borderAlpha": "100",
+      "lineThickness": "2",
+      "anchorBorderColor": "EDA326",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "EDA326",
+      "fillAlpha": "80",
+      "set": [
+        {
+          "value": "4000",
+          "label": "1st Quarter",
+          "fillColor": "55AEBE"
+        },
+        {
+          "value": "11500",
+          "label": "2st Quarter",
+          "fillColor": "EDA326"
+        },
+        {
+          "value": "12500",
+          "label": "3st Quarter",
+          "fillColor": "#628C33"
+        },
+        {
+          "value": "15000",
+          "label": "4st Quarter",
+          "fillColor": "#D85151"
+        }
+      ]
+    }
+  ]
+}

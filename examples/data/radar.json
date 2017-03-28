@@ -1,0 +1,114 @@
+{
+  "showRadarBorder": "",
+  "showValues": "1",
+  "startingAngle": "0",
+  "canvasBgAlpha": "0",
+  "legendPosition": "RIGHT",
+  "showValueLabel": "0",
+  "caption": "Business Results",
+  "subCaption": "2014 vs 2013",
+  "yAxisLabelAngle": "180",
+  "categories": {
+    "category": [
+      {
+        "label": "Dept.1"
+      },
+      {
+        "label": "Dept.2"
+      },
+      {
+        "label": "Dept.3"
+      },
+      {
+        "label": "Dept.4"
+      },
+      {
+        "label": "Dept.5"
+      },
+      {
+        "label": "Dept.6"
+      },
+      {
+        "label": "Dept.7"
+      },
+      {
+        "label": "Dept.8"
+      }
+    ]
+  },
+  "dataset": [
+    {
+      "seriesName": "2014",
+      "pattern": "AREA",
+      "borderColor": "55AEBE",
+      "borderAlpha": "100",
+      "anchorBorderColor": "55AEBE",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "55AEBE",
+      "fillAlpha": "60",
+      "set": [
+        {
+          "value": "27400"
+        },
+        {
+          "value": "29800"
+        },
+        {
+          "value": "25800"
+        },
+        {
+          "value": "26800"
+        },
+        {
+          "value": "29600"
+        },
+        {
+          "value": "32600"
+        },
+        {
+          "value": "25800"
+        },
+        {
+          "value": "29600"
+        }
+      ]
+    },
+    {
+      "seriesName": "2013",
+      "pattern": "AREA",
+      "borderColor": "EDA326",
+      "borderAlpha": "100",
+      "borderDashed": "1",
+      "anchorBorderColor": "EDA326",
+      "anchorBgColor": "FFFFFF",
+      "fillColor": "EDA326",
+      "fillAlpha": "60",
+      "set": [
+        {
+          "value": "10000"
+        },
+        {
+          "value": "11500"
+        },
+        {
+          "value": "12500"
+        },
+        {
+          "value": "15000"
+        },
+        {
+          "value": "11000"
+        },
+        {
+          "value": "9800"
+        },
+        {
+          "value": "12500"
+        },
+        {
+          "value": "10000"
+        }
+      ]
+    }
+  ]
+}

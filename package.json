@@ -1,0 +1,26 @@
+{
+  "name": "pow",
+  "version": "1.0.0",
+  "description": "JS Chart Library",
+  "main": "index.js",
+  "scripts": {
+    "serve": "grunt serve",
+    "build": "grunt build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS Chart Library"
+  ],
+  "author": "xuxia",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-uglify": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-convert": "^0.1.12",
+    "grunt-http-server": "^2.0.0"
+  }
+}

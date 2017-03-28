@@ -1,0 +1,198 @@
+{
+  "caption": "Business Results",
+  "subCaption": "2014 vs 2013 vs 2012",
+  "xAxisName": "Month",
+  "PYAxisName": "Revenue",
+  "showValues": "0",
+  "numberPrefix": "$",
+  "categories": {
+    "category": [
+      {
+        "label": "Jan"
+      },
+      {
+        "label": "Feb"
+      },
+      {
+        "label": "Mar"
+      },
+      {
+        "label": "Apr"
+      },
+      {
+        "label": "May"
+      },
+      {
+        "label": "Jun"
+      },
+      {
+        "label": "Jul"
+      },
+      {
+        "label": "Aug"
+      },
+      {
+        "label": "Sep"
+      },
+      {
+        "label": "Oct"
+      },
+      {
+        "label": "Nov"
+      },
+      {
+        "label": "Dec"
+      }
+    ]
+  },
+  "dataset": [
+    {
+      "seriesName": "2014",
+      "stackedGroup": "0",
+      "pattern": "COLUMN",
+      "fillColor": "55AEBE",
+      "fillAngle": "100",
+      "fillAlpha": "80",
+      "set": [
+        {
+          "y": "27400"
+        },
+        {
+          "y": "29800"
+        },
+        {
+          "y": "25800"
+        },
+        {
+          "y": "26800"
+        },
+        {
+          "y": "29600"
+        },
+        {
+          "y": "32600"
+        },
+        {
+          "y": "31800"
+        },
+        {
+          "y": "36700"
+        },
+        {
+          "y": "29700"
+        },
+        {
+          "y": "31900"
+        },
+        {
+          "y": "34800"
+        },
+        {
+          "y": "24800"
+        }
+      ]
+    },
+    {
+      "seriesName": "2013",
+      "stackedGroup": "0",
+      "pattern": "COLUMN",
+      "fillColor": "EDA326",
+      "fillAngle": "100",
+      "fillAlpha": "80",
+      "set": [
+        {
+          "y": "10000"
+        },
+        {
+          "y": "11500"
+        },
+        {
+          "y": "12500"
+        },
+        {
+          "y": "15000"
+        },
+        {
+          "y": "11000"
+        },
+        {
+          "y": "9800"
+        },
+        {
+          "y": "11800"
+        },
+        {
+          "y": "19700"
+        },
+        {
+          "y": "21700"
+        },
+        {
+          "y": "21900"
+        },
+        {
+          "y": "22900"
+        },
+        {
+          "y": "20800"
+        }
+      ]
+    },
+    {
+      "seriesName": "2012",
+      "stackedGroup": "1",
+      "pattern": "COLUMN",
+      "fillColor": "8CBC06",
+      "fillAngle": "100",
+      "fillAlpha": "70",
+      "set": [
+        {
+          "y": "40000"
+        },
+        {
+          "y": "51500"
+        },
+        {
+          "y": "42500"
+        },
+        {
+          "y": "45000"
+        },
+        {
+          "y": "31000"
+        },
+        {
+          "y": "38000"
+        },
+        {
+          "y": "41800"
+        },
+        {
+          "y": "49700"
+        },
+        {
+          "y": "41700"
+        },
+        {
+          "y": "51900"
+        },
+        {
+          "y": "42900"
+        },
+        {
+          "y": "20800"
+        }
+      ]
+    }
+  ],
+  "hTrendlines": {
+    "line": {
+      "y0": "20000",
+      "displayValue": "Avg",
+      "showOnTop": "1",
+      "isTrendZone": "0",
+      "color": "#90C829",
+      "alpha": "60"
+    }
+  }
+}

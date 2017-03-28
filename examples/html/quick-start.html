@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>POW - Quick Start</title>
+  <style type="text/css">
+    h1 {
+      text-align: center;
+    }
+
+    #chart {
+      margin: 0 auto;
+      width: 800px;
+      height: 400px;
+      border: 1px solid gray;
+    }
+  </style>
+</head>
+<body>
+<h1>My First POW Chart</h1>
+<div id="chart">
+
+</div>
+</body>
+<script type="text/javascript" src="../../lib/raphael/raphael-min.js"></script>
+<script type="text/javascript" src="../../src/pow.chart.core.js"></script>
+<script type="text/javascript" src="../../src/pow.chart.axis.js"></script>
+<script type="text/javascript">
+  var chart = new POW.Chart.Axis(document.getElementById('chart'));
+  chart.setData({
+      "caption": "Business Results",
+      "categories": {
+        "category": [
+          {
+            "label": "2014"
+          },
+          {
+            "label": "2015"
+          },
+          {
+            "label": "2016"
+          }
+        ]
+      },
+      "dataset": [
+        {
+          "set": [
+            {
+              "y": "27400",
+              "fillColor": "8CA7BA"
+            },
+            {
+              "y": "29800",
+              "fillColor": "B59327"
+            },
+            {
+              "y": "25800",
+              "fillColor": "BA7345"
+            }
+          ]
+        }
+      ]
+    }
+  );
+</script>
+</html>
