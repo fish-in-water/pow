@@ -8,7 +8,7 @@ POW基于Rapheal图形库，以SVG&VML技术为基础，结合完善的参数体
 
 实例：	http://111.231.10.229/pow/examples/index.html
 
-文档：	http://111.231.10.229/pow/doc/POW.html
+文档：	http://111.231.10.229/pow/doc/POW.html 或 doc/POW.docx
 
 
 
