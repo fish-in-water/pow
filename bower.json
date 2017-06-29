@@ -20,9 +20,10 @@
     "test",
     "tests"
   ],
-  "devDependencies": {},
+  "devDependencies": {
+    "jquery": "^3.2.0"
+  },
   "dependencies": {
-    "raphael": "2.1.2",
-    "jquery": "1.11"
+    "raphael": "2.1.2"
   }
 }
