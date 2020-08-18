@@ -6,9 +6,9 @@ POW是一个早期的探索项目。
 
 POW基于Rapheal图形库，以SVG&VML技术为基础，结合完善的参数体系，简单便捷定制具有交互性的图形报表。适用于IE6+、Chrome、Firefox、Opera、Safari，无需额外插件。
 
-在线实例：	http://111.231.10.229/pow/examples/index.html
+在线实例：	http://129.211.62.240:3402/pow/examples/index.html
 
-查看文档：	http://111.231.10.229/pow/doc/POW.html 或 doc/POW.docx
+查看文档：	http://129.211.62.240:3402/pow/doc/POW.html 或 doc/POW.docx
 
 
 
